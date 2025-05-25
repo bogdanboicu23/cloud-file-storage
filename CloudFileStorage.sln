@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudFileStorage.Server", "CloudFileStorage.Server\CloudFileStorage.Server.csproj", "{AAB04E28-B852-4D7E-8CD9-FE6C4A7E871B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{092C3072-C64C-47DF-A860-3C19DE3B457B}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB04E28-B852-4D7E-8CD9-FE6C4A7E871B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB04E28-B852-4D7E-8CD9-FE6C4A7E871B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB04E28-B852-4D7E-8CD9-FE6C4A7E871B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB04E28-B852-4D7E-8CD9-FE6C4A7E871B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
